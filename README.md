@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📈 CryptoTrack — Canlı Kripto Takip Paneli
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat&logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat&logo=vercel)
 
-First, run the development server:
+🔴 **Canlı Demo:** [crypt-tracker-git-main-cereneteneresevenes-projects.vercel.app](https://crypt-tracker-git-main-cereneteneresevenes-projects.vercel.app)
 
+Binance WebSocket API ile gerçek zamanlı kripto fiyat takip uygulaması.
+
+## ✨ Özellikler
+
+- 📡 **Canlı fiyat akışı** — Binance WebSocket ile anlık güncelleme
+- 📊 **20 coin** — Market cap sıralamasına göre CoinGecko API
+- 💼 **Portföy takibi** — Coin ekle, anlık kar/zarar hesapla
+- 🔔 **Fiyat alarmları** — Hedef fiyata ulaşınca tarayıcı bildirimi
+- 🌙 **Dark mode** — Tam karanlık tema
+- 🔍 **Arama** — Coin adı veya sembolüyle filtrele
+
+## 🛠️ Teknolojiler
+
+| Teknoloji | Kullanım |
+|-----------|----------|
+| Next.js 14 | React framework |
+| TypeScript | Tip güvenliği |
+| Tailwind CSS | Styling |
+| Binance WebSocket | Canlı fiyat akışı |
+| CoinGecko API | Coin verileri |
+| Vercel | Deploy |
+
+## 🚀 Kurulum
 ```bash
+git clone https://github.com/cereneteneresevene/crypt--tracker.git
+cd crypt--tracker
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👩‍💻 Geliştirici
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Ceren Tanrıseven**  
+[LinkedIn](https://linkedin.com/in/ceren-tanrıseven-231a711b7) · [GitHub](https://github.com/cereneteneresevene)
