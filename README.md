@@ -15,9 +15,8 @@ Binance WebSocket API ile gerçek zamanlı kripto fiyat takip uygulaması.
 ![Dashboard](screenshots/dashboard.png)
 
 ### Portföy & Fiyat Alarmları
-![Portfolio]
-(screenshots/portfolio.png)
-(screenshots/portfolio-alerts.png)
+![Portfolio](screenshots/portfolio.png)
+![Portfolio](screenshots/portfolio-alerts.png)
 
 ## ✨ Özellikler
 
